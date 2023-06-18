@@ -18,6 +18,9 @@ const library = [
 
 const numberOfBooksRead = () => {
   // write your code here
+	 author: "Suzanne Collins",
+    title: "Mockingjay: The Final Book of The Hunger Games",
+    readingStatus: false,
 };
 
 // Do not change the code below
